@@ -13,3 +13,12 @@ main {
   justify-content: center;
   flex-direction: column;
 }
+
+.card {
+  border: 3px solid rgba(1, 1, 1, 0.653);
+  border-radius: 10px;
+  margin: 30px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
