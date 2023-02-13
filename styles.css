@@ -41,3 +41,20 @@ main {
   padding: 10px;
   border: 3px dotted grey;
 }
+
+.list {
+  list-style: none;
+  display: flex;
+  position: relative;
+}
+
+.hash {
+  display: flex;
+  position: relative;
+  right: 25px;
+  margin-left: 10px;
+  padding: 2px 5px;
+  border: 2px double rgba(1, 0, 0, 0.651);
+  border-radius: 5px;
+  background-color: rgba(128, 128, 128, 0.615);
+}
