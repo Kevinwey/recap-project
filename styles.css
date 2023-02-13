@@ -77,7 +77,7 @@ main {
 .navigation {
   position: fixed;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
   width: 100vw;
   height: 100px;
   bottom: 0vw;
