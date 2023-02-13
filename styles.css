@@ -7,3 +7,9 @@
   font-size: large;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
+
+main {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
