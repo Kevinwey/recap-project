@@ -1,0 +1,9 @@
+.header {
+  display: flex;
+  justify-content: center;
+  border: 3px solid rgba(128, 128, 128, 0.708);
+  box-shadow: 5px 5px 15px 5px #000000;
+  color: rgba(74, 73, 73, 0.878);
+  font-size: large;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
