@@ -1,0 +1,29 @@
+.navigation {
+  position: fixed;
+  display: flex;
+  justify-content: space-evenly;
+  width: 100vw;
+  height: 100px;
+  bottom: 0vw;
+  border: 3px solid rgba(9, 8, 8, 0.72);
+  margin-bottom: 0;
+  background-color: rgba(128, 128, 128, 0.973);
+}
+
+.nav {
+  height: 50px;
+  width: 50px;
+  margin: 20px;
+}
+
+.footlist {
+  list-style: none;
+}
+
+.nav_btn {
+  margin-top: 10px;
+}
+
+.active {
+  fill: white;
+}
