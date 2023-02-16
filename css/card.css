@@ -7,7 +7,7 @@
   position: relative;
 }
 
-.question {
+.card_question {
   display: flex;
   flex-wrap: wrap;
   width: 60%;
@@ -26,13 +26,13 @@
   border: 3px dotted grey;
 }
 
-.list {
+.card_list {
   list-style: none;
   display: flex;
   position: relative;
 }
 
-.hash {
+.card_hash {
   display: flex;
   position: relative;
   right: 25px;
@@ -43,7 +43,7 @@
   background-color: rgba(128, 128, 128, 0.615);
 }
 
-.bookmark {
+.card_bookmark {
   position: absolute;
   top: -15px;
   right: 0px;
