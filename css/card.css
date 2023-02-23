@@ -45,7 +45,11 @@
 
 .card_bookmark {
   position: absolute;
-  top: -15px;
+  top: -35px;
   right: 0px;
   width: 40px;
+}
+
+.card-newBookmark {
+  fill: grey;
 }
